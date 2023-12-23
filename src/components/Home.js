@@ -3,7 +3,7 @@ import React from 'react'
 function Home() {
   return (
     <div className="condiv home pt-0" style={{maxWidth:'800px'}}>
-      <img src="/images/vinod_avtr.png" alt="ProfilePic" className="profilepic" />
+      <img src="./images/vinod_avtr.png" alt="ProfilePic" className="profilepic" />
       <h1 className='text-start mb-2 border-top pt-4'>Front-End Web Application Developer</h1>
       <h3 className='text-primary text-start mb-4'>(Vinod Kumar)</h3>
       <p className='text-black-50 text-start'>I am Frontend Web Application Developer with the latest Technologies skills. Good understanding of the Full-Stack Development life-cycle. 
@@ -39,9 +39,9 @@ function Home() {
       <div className="social">
       
       <a href="https://github.com/webindianlion/" target="_blank" rel="noreferrer">
-      <i class="fab fa-github" aria-hidden="true"></i></a>
+      <i className="fab fa-github" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/inwebservice/" target="_blank" rel="noreferrer">
-      <i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
+      <i className="fab fa-linkedin-in" aria-hidden="true"></i></a>
       </div>
 
     </div>
