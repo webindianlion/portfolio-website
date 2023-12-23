@@ -1,0 +1,45 @@
+
+.App {
+  text-align: center;
+  display: flex;
+  width: 100vw;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.condiv {
+  padding: 20px;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  }
+.profilepic {
+  border-radius: 50%;
+  width: 150px;
+  margin: 30px;
+  margin-left: 0;
+}
+.social {
+  margin-top: 20px;
+  display: flex;
+  bottom: 60px;
+}
+.social i {
+  padding-right: 30px;
+  font-size: 25px;
+  color: #0d6efd;
+}
+
+
+
+
+
+/************************************/
+
+
